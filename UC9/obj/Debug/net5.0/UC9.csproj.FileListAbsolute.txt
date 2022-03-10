@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\UC9\UC9\bin\Debug\net5.0\UC9.exe
+C:\Users\churchill paul\source\repos\UC9\UC9\bin\Debug\net5.0\UC9.deps.json
+C:\Users\churchill paul\source\repos\UC9\UC9\bin\Debug\net5.0\UC9.runtimeconfig.json
+C:\Users\churchill paul\source\repos\UC9\UC9\bin\Debug\net5.0\UC9.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\UC9\UC9\bin\Debug\net5.0\UC9.dll
+C:\Users\churchill paul\source\repos\UC9\UC9\bin\Debug\net5.0\UC9.pdb
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.dll
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\refint\UC9.dll
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.pdb
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\UC9.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\UC9\UC9\obj\Debug\net5.0\ref\UC9.dll
